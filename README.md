@@ -1,1 +1,1 @@
-# JavaII
+# Hannah's Java II repository
